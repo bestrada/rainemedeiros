@@ -6,6 +6,7 @@
 }
 #topPanel a { color:inherit; opacity:0.5; }
 #topPanel a:hover { opacity:1.0; }
+#topPanel .container { padding-top:320px; }
 
 #contentPanel { background-color:inherit; }
 #footer {
